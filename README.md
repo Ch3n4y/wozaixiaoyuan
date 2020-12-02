@@ -2,7 +2,7 @@
 
 思路及代码参考GitHub项目：https://github.com/178me/dailyInspectionReport/
 
-感谢[**178me**](https://github.com/178me)的代码  
+感谢[**178me**](https://github.com/178me)的代码、以及[**kingwhylove**](https://blog.csdn.net/weixin_44170221/article/details/106402376)的教程
 
 # 目录
    * [主要步骤：](#主要步骤)
